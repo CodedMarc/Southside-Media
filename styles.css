@@ -58,7 +58,8 @@ body {
 }
 .creatorimg {
     border-radius:5%;
-    width:auto;
+    width:max-content;
+    overflow-x: hidden;
     height:500px;
 }
 .about-div {
